@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
+}
